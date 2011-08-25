@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>(null)_Other</key>
+	<string>rgba(0.866667,0.031373,0.023529,1.0)</string>
+	<key>(null)_Spaces</key>
+	<string>rgba(0.498039,0.498039,0.498039,1.0)</string>
+	<key>BackgroundColor</key>
+	<string>rgba(0.122179,0.122179,0.122179,1.0)</string>
+	<key>Color:ColorAttributesSeparately</key>
+	<string>1</string>
+	<key>Color:GuideContrast</key>
+	<string>7</string>
+	<key>Color:HighlightInsertionPoint</key>
+	<string>1</string>
+	<key>Color:UseCustomHighlight</key>
+	<string>1</string>
+	<key>CommentsColor</key>
+	<string>rgba(0.333333,0.333333,0.333333,1.0)</string>
+	<key>CommentsColor_Ruby</key>
+	<string>rgba(0.533944,0.533944,0.533944,1.0)</string>
+	<key>CtagsIdentifierColor</key>
+	<string>rgba(0.600000,0.000000,0.400000,1.0)</string>
+	<key>ForegroundColor</key>
+	<string>rgba(1.000000,1.000000,1.000000,1.0)</string>
+	<key>HTMLAnchorColor</key>
+	<string>rgba(0.666667,0.000000,0.000000,1.0)</string>
+	<key>HTMLAttributeNameColor</key>
+	<string>rgba(0.877821,0.687816,0.088487,1.0)</string>
+	<key>HTMLAttributeValueColor</key>
+	<string>rgba(0.941176,0.876005,0.743297,1.0)</string>
+	<key>HTMLImageColor</key>
+	<string>rgba(0.397681,0.585458,0.665156,1.0)</string>
+	<key>HTMLProcessingDirectiveColor</key>
+	<string>rgba(0.200000,0.400000,0.600000,1.0)</string>
+	<key>HTMLTagColor</key>
+	<string>rgba(0.593133,0.800000,0.461875,1.0)</string>
+	<key>InsertionPointLineHighlightColor</key>
+	<string>rgba(0.070603,0.072404,0.072404,1.0)</string>
+	<key>KeywordsColor</key>
+	<string>rgba(0.546685,0.809003,0.945708,1.0)</string>
+	<key>NumericConstantColor</key>
+	<string>rgba(0.744701,0.285695,0.936645,1.0)</string>
+	<key>PredefinedNamesColor</key>
+	<string>rgba(0.067765,0.504417,0.719463,1.0)</string>
+	<key>PrimaryHighlightColor</key>
+	<string>rgba(0.749020,0.847059,0.980392,1.0)</string>
+	<key>SecondaryHighlightColor</key>
+	<string>rgba(0.815686,0.815686,0.815686,1.0)</string>
+	<key>StringColor</key>
+	<string>rgba(0.555001,0.981903,0.384955,1.0)</string>
+</dict>
+</plist>

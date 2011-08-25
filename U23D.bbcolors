@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BackgroundColor</key>
+	<string>rgba(0.090074,0.098039,0.098116,1.0)</string>
+	<key>BackgroundColor_Grep Replace Pattern</key>
+	<string>rgba(0.960021,0.960021,0.960021,1.0)</string>
+	<key>BackgroundColor_Grep Search Pattern</key>
+	<string>rgba(0.960021,0.960021,0.960021,1.0)</string>
+	<key>Color:ColorAttributesSeparately</key>
+	<string>1</string>
+	<key>Color:GuideContrast</key>
+	<string>4</string>
+	<key>Color:HighlightInsertionPoint</key>
+	<string>1</string>
+	<key>Color:UseCustomHighlight</key>
+	<string>1</string>
+	<key>Color:UseCustomHighlight:Grep Replace Pattern</key>
+	<string>0</string>
+	<key>Color:UseCustomHighlight:Grep Search Pattern</key>
+	<string>0</string>
+	<key>CommentsColor</key>
+	<string>rgba(0.806500,0.000000,0.000000,1.0)</string>
+	<key>CommentsColor_Markdown</key>
+	<string>rgba(0.656687,0.656687,0.656687,1.0)</string>
+	<key>CtagsIdentifierColor</key>
+	<string>rgba(0.600000,0.000000,0.400000,1.0)</string>
+	<key>ForegroundColor</key>
+	<string>rgba(0.941192,0.941192,0.941192,1.0)</string>
+	<key>ForegroundColor_Grep Replace Pattern</key>
+	<string>rgba(0.000000,0.000000,0.000000,1.0)</string>
+	<key>ForegroundColor_Grep Search Pattern</key>
+	<string>rgba(0.000000,0.000000,0.000000,1.0)</string>
+	<key>HTMLAnchorColor</key>
+	<string>rgba(0.588663,0.670237,0.380133,1.0)</string>
+	<key>HTMLAnchorColor_Markdown</key>
+	<string>rgba(0.717174,0.717174,0.717174,1.0)</string>
+	<key>HTMLAttributeNameColor</key>
+	<string>rgba(0.000000,0.541222,0.552026,1.0)</string>
+	<key>HTMLAttributeNameColor_Markdown</key>
+	<string>rgba(0.366934,0.592737,0.956863,1.0)</string>
+	<key>HTMLAttributeValueColor</key>
+	<string>rgba(0.238239,0.843214,0.855070,1.0)</string>
+	<key>HTMLAttributeValueColor_Markdown</key>
+	<string>rgba(0.488289,0.699229,0.277348,1.0)</string>
+	<key>HTMLImageColor</key>
+	<string>rgba(0.879469,0.968231,0.650584,1.0)</string>
+	<key>HTMLImageColor_Markdown</key>
+	<string>rgba(0.717174,0.717174,0.717174,1.0)</string>
+	<key>HTMLProcessingDirectiveColor</key>
+	<string>rgba(0.024369,0.839292,0.855558,1.0)</string>
+	<key>HTMLProcessingDirectiveColor_Markdown</key>
+	<string>rgba(0.800000,0.549020,0.235294,1.0)</string>
+	<key>HTMLTagColor</key>
+	<string>rgba(1.000000,0.799283,0.000000,1.0)</string>
+	<key>InsertionPointLineHighlightColor</key>
+	<string>rgba(0.143771,0.143771,0.143771,1.0)</string>
+	<key>KeywordsColor</key>
+	<string>rgba(1.000000,0.799283,0.000000,1.0)</string>
+	<key>KeywordsColor_Grep Replace Pattern</key>
+	<string>rgba(0.000000,0.000000,0.915541,1.0)</string>
+	<key>KeywordsColor_Grep Search Pattern</key>
+	<string>rgba(0.000000,0.000000,0.915541,1.0)</string>
+	<key>KeywordsColor_Markdown</key>
+	<string>rgba(0.449027,0.531975,0.605020,1.0)</string>
+	<key>PrimaryHighlightColor</key>
+	<string>rgba(0.303471,0.141726,0.371893,1.0)</string>
+	<key>SecondaryHighlightColor</key>
+	<string>rgba(0.127459,0.164385,0.138750,1.0)</string>
+	<key>StringColor</key>
+	<string>rgba(0.600000,0.600000,0.600000,1.0)</string>
+	<key>StringColor_Markdown</key>
+	<string>rgba(0.592233,0.599557,0.718212,1.0)</string>
+</dict>
+</plist>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BackgroundColor</key>
+	<string>rgba(0.047929,0.047929,0.047929,1.0)</string>
+	<key>Color:ColorAttributesSeparately</key>
+	<string>1</string>
+	<key>Color:GuideContrast</key>
+	<string>2</string>
+	<key>Color:HighlightInsertionPoint</key>
+	<string>1</string>
+	<key>Color:UseCustomHighlight</key>
+	<string>1</string>
+	<key>CommentsColor</key>
+	<string>rgba(0.354009,0.476005,0.776410,1.0)</string>
+	<key>CtagsIdentifierColor</key>
+	<string>rgba(0.600000,0.000000,0.400000,1.0)</string>
+	<key>ForegroundColor</key>
+	<string>rgba(0.808301,0.808301,0.808301,1.0)</string>
+	<key>HTMLAnchorColor</key>
+	<string>rgba(1.000000,0.360037,0.000000,1.0)</string>
+	<key>HTMLAttributeNameColor</key>
+	<string>rgba(0.394156,0.459083,0.559106,1.0)</string>
+	<key>HTMLAttributeValueColor</key>
+	<string>rgba(0.502785,0.645914,0.801923,1.0)</string>
+	<key>HTMLImageColor</key>
+	<string>rgba(0.000000,0.466667,0.466667,1.0)</string>
+	<key>HTMLProcessingDirectiveColor</key>
+	<string>rgba(0.200000,0.400000,0.600000,1.0)</string>
+	<key>HTMLTagColor</key>
+	<string>rgba(1.000000,0.501961,0.000000,1.0)</string>
+	<key>InsertionPointLineHighlightColor</key>
+	<string>rgba(0.143771,0.143771,0.143771,1.0)</string>
+	<key>KeywordsColor</key>
+	<string>rgba(1.000000,0.501961,0.000000,1.0)</string>
+	<key>PrimaryHighlightColor</key>
+	<string>rgba(0.437705,0.178332,0.404349,1.0)</string>
+	<key>SecondaryHighlightColor</key>
+	<string>rgba(0.127459,0.164385,0.138750,1.0)</string>
+	<key>StringColor</key>
+	<string>rgba(0.600000,0.600000,0.600000,1.0)</string>
+</dict>
+</plist>
