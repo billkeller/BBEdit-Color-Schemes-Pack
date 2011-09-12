@@ -1,35 +1,76 @@
-"Color:Background"                               =  "rgb(5654,5654,5654)";
-"Color:Background:Grep Replace Pattern"          =  "rgb(62915,62915,62915)";
-"Color:Background:Grep Search Pattern"           =  "rgb(62915,62915,62915)";
-"Color:CTagsIdentifier"                          =  "rgb(39321,0,26214)";
-"Color:ColorAttributesSeparately"                =   1;
-"Color:Comment"                                  =  "rgb(50822,42119,17976)";
-"Color:Comment:Markdown"                         =  "rgb(43036,43036,43036)";
-"Color:Foreground"                               =  "rgb(59190,54206,38823)";
-"Color:Foreground:Grep Replace Pattern"          =  "rgb(0,0,0)";
-"Color:Foreground:Grep Search Pattern"           =  "rgb(0,0,0)";
-"Color:GuideContrast"                            =   4;
-"Color:HTMLAnchor"                               =  "rgb(48838,50628,49065)";
-"Color:HTMLAnchor:Markdown"                      =  "rgb(47000,47000,47000)";
-"Color:HTMLAttributeName"                        =  "rgb(31879,35463,32600)";
-"Color:HTMLAttributeName:Markdown"               =  "rgb(24047,38845,62708)";
-"Color:HTMLAttributeValue"                       =  "rgb(39551,47284,43404)";
-"Color:HTMLAttributeValue:Markdown"              =  "rgb(32000,45824,18176)";
-"Color:HTMLImage"                                =  "rgb(57636,63453,42636)";
-"Color:HTMLImage:Markdown"                       =  "rgb(47000,47000,47000)";
-"Color:HTMLTag"                                  =  "rgb(59190,54206,38823)";
-"Color:HighlightInsertionPoint"                  =   1;
-"Color:InsertionPointLineHighlightColor"         =  "rgb(9422,9422,9422)";
-"Color:Keywords"                                 =  "rgb(48838,50628,49065)";
-"Color:Keywords:Grep Replace Pattern"            =  "rgb(0,0,60000)";
-"Color:Keywords:Grep Search Pattern"             =  "rgb(0,0,60000)";
-"Color:Keywords:Markdown"                        =  "rgb(29427,34863,39650)";
-"Color:PrimaryHighlight"                         =  "rgb(19888,9288,24372)";
-"Color:SecondaryHighlight"                       =  "rgb(8353,10773,9093)";
-"Color:String"                                   =  "rgb(39321,39321,39321)";
-"Color:String:Markdown"                          =  "rgb(38812,39292,47068)";
-"Color:UseCustomHighlight"                       =   1;
-"Color:UseCustomHighlight:Grep Replace Pattern"  =   0;
-"Color:UseCustomHighlight:Grep Search Pattern"   =   0;
-"Color:XMLProcessingInstruction"                 =  "rgb(50822,42119,17976)";
-"Color:XMLProcessingInstruction:Markdown"        =  "rgb(52428,35980,15420)";
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BackgroundColor</key>
+	<string>rgba(0.086275,0.086275,0.086275,1.0)</string>
+	<key>BackgroundColor_Grep Replace Pattern</key>
+	<string>rgba(0.960021,0.960021,0.960021,1.0)</string>
+	<key>BackgroundColor_Grep Search Pattern</key>
+	<string>rgba(0.960021,0.960021,0.960021,1.0)</string>
+	<key>Color:ColorAttributesSeparately</key>
+	<string>1</string>
+	<key>Color:GuideContrast</key>
+	<string>4</string>
+	<key>Color:HighlightInsertionPoint</key>
+	<string>1</string>
+	<key>Color:UseCustomHighlight</key>
+	<string>1</string>
+	<key>Color:UseCustomHighlight:Grep Replace Pattern</key>
+	<string>0</string>
+	<key>Color:UseCustomHighlight:Grep Search Pattern</key>
+	<string>0</string>
+	<key>CommentsColor</key>
+	<string>rgba(0.775494,0.642695,0.274296,1.0)</string>
+	<key>CommentsColor_Markdown</key>
+	<string>rgba(0.656687,0.656687,0.656687,1.0)</string>
+	<key>CtagsIdentifierColor</key>
+	<string>rgba(0.600000,0.000000,0.400000,1.0)</string>
+	<key>ForegroundColor</key>
+	<string>rgba(0.903182,0.827131,0.592401,1.0)</string>
+	<key>ForegroundColor_Grep Replace Pattern</key>
+	<string>rgba(0.000000,0.000000,0.000000,1.0)</string>
+	<key>ForegroundColor_Grep Search Pattern</key>
+	<string>rgba(0.000000,0.000000,0.000000,1.0)</string>
+	<key>HTMLAnchorColor</key>
+	<string>rgba(0.745220,0.772534,0.748684,1.0)</string>
+	<key>HTMLAnchorColor_Markdown</key>
+	<string>rgba(0.717174,0.717174,0.717174,1.0)</string>
+	<key>HTMLAttributeNameColor</key>
+	<string>rgba(0.486442,0.541131,0.497444,1.0)</string>
+	<key>HTMLAttributeNameColor_Markdown</key>
+	<string>rgba(0.366934,0.592737,0.956863,1.0)</string>
+	<key>HTMLAttributeValueColor</key>
+	<string>rgba(0.603510,0.721508,0.662303,1.0)</string>
+	<key>HTMLAttributeValueColor_Markdown</key>
+	<string>rgba(0.488289,0.699229,0.277348,1.0)</string>
+	<key>HTMLImageColor</key>
+	<string>rgba(0.879469,0.968231,0.650584,1.0)</string>
+	<key>HTMLImageColor_Markdown</key>
+	<string>rgba(0.717174,0.717174,0.717174,1.0)</string>
+	<key>HTMLProcessingDirectiveColor</key>
+	<string>rgba(0.775494,0.642695,0.274296,1.0)</string>
+	<key>HTMLProcessingDirectiveColor_Markdown</key>
+	<string>rgba(0.800000,0.549020,0.235294,1.0)</string>
+	<key>HTMLTagColor</key>
+	<string>rgba(0.903182,0.827131,0.592401,1.0)</string>
+	<key>InsertionPointLineHighlightColor</key>
+	<string>rgba(0.143771,0.143771,0.143771,1.0)</string>
+	<key>KeywordsColor</key>
+	<string>rgba(0.745220,0.772534,0.748684,1.0)</string>
+	<key>KeywordsColor_Grep Replace Pattern</key>
+	<string>rgba(0.000000,0.000000,0.915541,1.0)</string>
+	<key>KeywordsColor_Grep Search Pattern</key>
+	<string>rgba(0.000000,0.000000,0.915541,1.0)</string>
+	<key>KeywordsColor_Markdown</key>
+	<string>rgba(0.449027,0.531975,0.605020,1.0)</string>
+	<key>PrimaryHighlightColor</key>
+	<string>rgba(0.303471,0.141726,0.371893,1.0)</string>
+	<key>SecondaryHighlightColor</key>
+	<string>rgba(0.127459,0.164385,0.138750,1.0)</string>
+	<key>StringColor</key>
+	<string>rgba(0.600000,0.600000,0.600000,1.0)</string>
+	<key>StringColor_Markdown</key>
+	<string>rgba(0.592233,0.599557,0.718212,1.0)</string>
+</dict>
+</plist>
