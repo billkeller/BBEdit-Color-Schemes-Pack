@@ -6,6 +6,7 @@ Authors and/or link to location of original BBColors finding
 2AV5.bbcolors 					Bill Keller
 2AV6.bbcolors 					Bill Keller
 Bell Dark.bbcolors 				John Gruber http://daringfireball.net/projects/bbcolors/schemes/
+Blues.bbcolors					Bill Keller
 COD10K.bbcolors					Bill Keller
 Douce nuit 3.bbcolors 			Luke Andrews https://gist.github.com/1119031	
 Espresso-ish Dark.bbcolors 		http://jmock.me/espresso-ish/bbedit/
