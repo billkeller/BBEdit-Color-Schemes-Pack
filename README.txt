@@ -7,12 +7,17 @@ Authors and/or link to location of original BBColors finding
 2AV6.bbcolors 							Bill Keller
 Bell Dark.bbcolors 						John Gruber http://daringfireball.net/projects/bbcolors/schemes/
 Blues.bbcolors							Bill Keller
+Charcoal v1.bbcolors					http://www.andrewhazelden.com/blog/2012/09/charcoal-color-scheme-for-textwrangler-and-bbedit/
 COD10K.bbcolors							Bill Keller
 Douce nuit 3.bbcolors 					Luke Andrews https://gist.github.com/1119031	
 Espresso-ish Dark.bbcolors 				http://jmock.me/espresso-ish/bbedit/
 Gentle Honey.bbcolors 					Bill Keller
 Gruber Dark.bbcolors 					John Gruber http://daringfireball.net/projects/bbcolors/schemes/
 Gruber Light.bbcolors 					John Gruber http://daringfireball.net/projects/bbcolors/schemes/
+Macdrifter_Dark.bbcolors				https://github.com/macdrifter/BBEdit-Settings
+Macdrifter.bbcolors						https://github.com/macdrifter/BBEdit-Settings
+Midnight Blue v1.bbcolors				http://www.andrewhazelden.com/blog/2012/06/midnight-blue-color-scheme-for-textwrangler-and-bbedit/
+Monokai.bbcolors						https://github.com/thiagoalessio/Monokai-BBEdit-Color-Scheme
 Ponies.bbcolors							http://bbeditextras.org/wiki/index.php?title=Color_Schemes
 Raygun low contrast dark.bbcolors		Michael Le Du https://github.com/mledu
 Smoky Jazz.bbcolors 					https://github.com/ondrae/IDE-Color-Schemes
