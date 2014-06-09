@@ -4,6 +4,7 @@
 | 2AV4.bbcolors 					|			|				| Bill Keller		|																																	|
 | 2AV5.bbcolors 					|			|				| Bill Keller		|																																	|
 | 2AV6.bbcolors 					|			|				| Bill Keller		|																																	|
+| base16 (various color schemes)	| BBEdit 10	|				| Chris Kempson		| https://github.com/chriskempson/base16-bbedit																						|
 | Beebe Dark.bbcolors				| BBEdit 10	|				|					| http://cl.ly/8xss																													|
 | Bell Dark.bbcolors 				| BBEdit 9	|				| Bryan Bell		| http://daringfireball.net/projects/bbcolors/schemes/																				|
 | Blues.bbcolors					|			|				| Bill Keller		|																																	|
