@@ -7,7 +7,7 @@
 | Beebe Dark.bbcolors				| BBEdit 10	|					| http://cl.ly/8xss																											|
 | Bell Dark.bbcolors 				| BBEdit 9	| Bryan Bell		| http://daringfireball.net/projects/bbcolors/schemes/																		|
 | Blues.bbcolors					|			| Bill Keller		|																															|
-| Charcoal v1.bbcolors				|			|					| http://www.andrewhazelden.com/blog/2012/09/charcoal-color-scheme-for-textwrangler-and-bbedit/								|
+| Charcoal v1.bbcolors				| BBEdit 10	| Andrew Hazelden	| http://www.andrewhazelden.com/blog/2012/09/charcoal-color-scheme-for-textwrangler-and-bbedit/								|
 | COD10K.bbcolors					|			| Bill Keller		|																															|
 | Douce nuit.bbcolors 				| BBEdit 9	| Luke Andrews		| http://attaboy.tumblr.com/post/75614496/i-never-thought-about-sharing-my-colours-for										|
 | Douce nuit 2 (gamma 2.2).bbcolors	| BBEdit 9	| Luke Andrews		| http://attaboy.tumblr.com/post/75614496/i-never-thought-about-sharing-my-colours-for										|
@@ -21,7 +21,7 @@
 | ir\_black v2.bbcolors				| BBEdit 10	| Patrick Gibson	| https://gist.github.com/pgib/959651																						|
 | Macdrifter\_Dark.bbcolors			|			|					| https://github.com/macdrifter/BBEdit-Settings																				|
 | Macdrifter.bbcolors				|			|					| https://github.com/macdrifter/BBEdit-Settings																				|
-| Midnight Blue v1.bbcolors			|			|					| http://www.andrewhazelden.com/blog/2012/06/midnight-blue-color-scheme-for-textwrangler-and-bbedit/						|
+| Midnight Blue v1.bbcolors			| BBEdit 10	| Andrew Hazelden	| http://www.andrewhazelden.com/blog/2012/06/midnight-blue-color-scheme-for-textwrangler-and-bbedit/						|
 | Monokai.bbcolors					|			|					| https://github.com/thiagoalessio/Monokai-BBEdit-Color-Scheme																|
 | Ponies.bbcolors					|			|					| [http://bbeditextras.org/wiki/index.php?title=Color_Schemes](http://bbeditextras.org/wiki/index.php?title=Color_Schemes)	|
 | Raygun low contrast dark.bbcolors	|			| Michael Le Du		| https://github.com/mledu																									|
