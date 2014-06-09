@@ -13,6 +13,7 @@
 | Gentle Honey.bbcolors 			|			| Bill Keller	|																															|
 | Gruber Dark.bbcolors 				|			| John Gruber	| http://daringfireball.net/projects/bbcolors/schemes/																		|
 | Gruber Light.bbcolors 			|			| John Gruber	| http://daringfireball.net/projects/bbcolors/schemes/																		|
+| ir\_black.bbcolors 				|			|				| https://gist.github.com/959651																							|
 | Macdrifter\_Dark.bbcolors			|			|				| https://github.com/macdrifter/BBEdit-Settings																				|
 | Macdrifter.bbcolors				|			|				| https://github.com/macdrifter/BBEdit-Settings																				|
 | Midnight Blue v1.bbcolors			|			|				| http://www.andrewhazelden.com/blog/2012/06/midnight-blue-color-scheme-for-textwrangler-and-bbedit/						|
@@ -25,6 +26,5 @@
 | Twilight.bbcolors 				|			|				| [http://bbeditextras.org/wiki/index.php?title=Color_Schemes](http://bbeditextras.org/wiki/index.php?title=Color_Schemes)	|
 | U23D.bbcolors 					|			| Bill Keller	|																															|
 | underwater.bbcolors				|			| Michael Le Du	| https://github.com/mledu																									|
-| Zen and Tea.bbcolors 				|			| Bill Keller	|																															|
-| ir_black.bbcolors 				|			|				| https://gist.github.com/959651																							|
 | wolfenstein.bbcolors 				|			| Bill Keller	|																															|
+| Zen and Tea.bbcolors 				|			| Bill Keller	|																															|
