@@ -12,7 +12,7 @@
 | Douce nuit 2 (gamma 2.2).bbcolors	| BBEdit 9	| Luke Andrews	| http://attaboy.tumblr.com/post/75614496/i-never-thought-about-sharing-my-colours-for										|
 | Douce nuit 3.bbcolors 			| BBEdit 10	| Luke Andrews	| http://attaboy.tumblr.com/post/75614496/i-never-thought-about-sharing-my-colours-for										|
 | Espresso-ish Dark.bbcolors 		|			|				| http://jmock.me/espresso-ish/bbedit/																						|
-| Gentle Honey.bbcolors 			|			| Bill Keller	|																															|
+| Gentle Honey.bbcolors 			| BBEdit 9	| Bill Keller	| http://ghettocooler.net/2011/07/29/bbedit10-color-schemes/																|
 | Gruber Dark.bbcolors 				| BBEdit 9	| John Gruber	| http://daringfireball.net/projects/bbcolors/schemes/																		|
 | Gruber Light.bbcolors 			| BBEdit 9	| John Gruber	| http://daringfireball.net/projects/bbcolors/schemes/																		|
 | ir\_black.bbcolors 				|			|				| https://gist.github.com/959651																							|
@@ -26,7 +26,7 @@
 | Solarized Dark.bbcolors			|			|				| https://github.com/altercation/solarized/tree/master/textwrangler-bbedit-colors-solarized									|
 | Solarized Light.bbcolors 			|			|				| https://github.com/altercation/solarized/tree/master/textwrangler-bbedit-colors-solarized									|
 | Twilight.bbcolors 				|			|				| [http://bbeditextras.org/wiki/index.php?title=Color_Schemes](http://bbeditextras.org/wiki/index.php?title=Color_Schemes)	|
-| U23D.bbcolors 					|			| Bill Keller	|																															|
+| U23D.bbcolors 					| BBEdit 9	| Bill Keller	| http://ghettocooler.net/2011/07/29/bbedit10-color-schemes/																|
 | underwater.bbcolors				|			| Michael Le Du	| https://github.com/mledu																									|
 | wolfenstein.bbcolors 				|			| Bill Keller	|																															|
-| Zen and Tea.bbcolors 				|			| Bill Keller	|																															|
+| Zen and Tea.bbcolors 				| BBEdit 9	| Bill Keller	| http://ghettocooler.net/2011/07/29/bbedit10-color-schemes/																|
