@@ -23,7 +23,7 @@
 | Macdrifter.bbcolors				|			|					| https://github.com/macdrifter/BBEdit-Settings																				|
 | Midnight Blue v1.bbcolors			| BBEdit 10	| Andrew Hazelden	| http://www.andrewhazelden.com/blog/2012/06/midnight-blue-color-scheme-for-textwrangler-and-bbedit/						|
 | Monokai.bbcolors					|			|					| https://github.com/thiagoalessio/Monokai-BBEdit-Color-Scheme																|
-| Ponies.bbcolors					|			|					| [http://bbeditextras.org/wiki/index.php?title=Color_Schemes](http://bbeditextras.org/wiki/index.php?title=Color_Schemes)	|
+| Ponies.bbcolors					| BBEdit 10	| Kerri A. Hicks	| http://www.allthecandyintheworld.com/Ponies.bbcolors.zip																	|
 | Raygun low contrast dark.bbcolors	|			| Michael Le Du		| https://github.com/mledu																									|
 | Smoky Jazz.bbcolors 				|			|					| https://github.com/ondrae/IDE-Color-Schemes																				|
 | Solarized Dark.bbcolors			| BBEdit 9	| Rui Carmo			| https://github.com/rcarmo/textwrangler-bbedit-solarized																	|
