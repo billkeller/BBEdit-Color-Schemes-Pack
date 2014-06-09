@@ -4,6 +4,7 @@
 | 2AV4.bbcolors 					|			| Bill Keller		|																															|
 | 2AV5.bbcolors 					|			| Bill Keller		|																															|
 | 2AV6.bbcolors 					|			| Bill Keller		|																															|
+| Beebe Dark.bbcolors				| BBEdit 10	|					| http://cl.ly/8xss																											|
 | Bell Dark.bbcolors 				| BBEdit 9	| Bryan Bell		| http://daringfireball.net/projects/bbcolors/schemes/																		|
 | Blues.bbcolors					|			| Bill Keller		|																															|
 | Charcoal v1.bbcolors				|			|					| http://www.andrewhazelden.com/blog/2012/09/charcoal-color-scheme-for-textwrangler-and-bbedit/								|
