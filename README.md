@@ -32,7 +32,8 @@
 | Solarized Light					| BBEdit 9	|				| Rui Carmo			| https://github.com/rcarmo/textwrangler-bbedit-solarized																			|
 | Tomorrow Night					| BBEdit 10	| MIT License	| Chris Kempson		| https://github.com/chriskempson/tomorrow-theme																					|
 | Tomorrow							| BBEdit 10	| MIT License	| Chris Kempson		| https://github.com/chriskempson/tomorrow-theme																					|
-| Twilight							|			|				|					| [http://bbeditextras.org/wiki/index.php?title=Color_Schemes](http://bbeditextras.org/wiki/index.php?title=Color_Schemes)			|
+| Twilight							| BBEdit 10	|				|					| http://cl.ly/2U0314303Z0V2K1W0z08																									|
+| Twilight-ish						| BBEdit 10	|				|					| https://gist.github.com/distilledhype/1139584																						|
 | U23D								| BBEdit 9	|				| Bill Keller		| http://ghettocooler.net/2011/07/29/bbedit10-color-schemes/																		|
 | underwater						|			|				| Michael Le Du		| https://github.com/mledu																											|
 | wolfenstein						|			|				| Bill Keller		|																																	|
