@@ -4,15 +4,17 @@
 | 2AV4.bbcolors 					|			| Bill Keller	|																															|
 | 2AV5.bbcolors 					|			| Bill Keller	|																															|
 | 2AV6.bbcolors 					|			| Bill Keller	|																															|
-| Bell Dark.bbcolors 				|			| Bryan Bell	| http://daringfireball.net/projects/bbcolors/schemes/																		|
+| Bell Dark.bbcolors 				| BBEdit 9	| Bryan Bell	| http://daringfireball.net/projects/bbcolors/schemes/																		|
 | Blues.bbcolors					|			| Bill Keller	|																															|
 | Charcoal v1.bbcolors				|			|				| http://www.andrewhazelden.com/blog/2012/09/charcoal-color-scheme-for-textwrangler-and-bbedit/								|
 | COD10K.bbcolors					|			| Bill Keller	|																															|
-| Douce nuit 3.bbcolors 			|			| Luke Andrews	| https://gist.github.com/1119031																							|
+| Douce nuit.bbcolors 				| BBEdit 9	| Luke Andrews	| http://attaboy.tumblr.com/post/75614496/i-never-thought-about-sharing-my-colours-for										|
+| Douce nuit 2 (gamma 2.2).bbcolors	| BBEdit 9	| Luke Andrews	| http://attaboy.tumblr.com/post/75614496/i-never-thought-about-sharing-my-colours-for										|
+| Douce nuit 3.bbcolors 			| BBEdit 10	| Luke Andrews	| http://attaboy.tumblr.com/post/75614496/i-never-thought-about-sharing-my-colours-for										|
 | Espresso-ish Dark.bbcolors 		|			|				| http://jmock.me/espresso-ish/bbedit/																						|
 | Gentle Honey.bbcolors 			|			| Bill Keller	|																															|
-| Gruber Dark.bbcolors 				|			| John Gruber	| http://daringfireball.net/projects/bbcolors/schemes/																		|
-| Gruber Light.bbcolors 			|			| John Gruber	| http://daringfireball.net/projects/bbcolors/schemes/																		|
+| Gruber Dark.bbcolors 				| BBEdit 9	| John Gruber	| http://daringfireball.net/projects/bbcolors/schemes/																		|
+| Gruber Light.bbcolors 			| BBEdit 9	| John Gruber	| http://daringfireball.net/projects/bbcolors/schemes/																		|
 | ir\_black.bbcolors 				|			|				| https://gist.github.com/959651																							|
 | Macdrifter\_Dark.bbcolors			|			|				| https://github.com/macdrifter/BBEdit-Settings																				|
 | Macdrifter.bbcolors				|			|				| https://github.com/macdrifter/BBEdit-Settings																				|
