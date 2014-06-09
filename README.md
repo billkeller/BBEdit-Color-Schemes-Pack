@@ -13,6 +13,7 @@
 | Douce nuit 3.bbcolors 			| BBEdit 10	| Luke Andrews	| http://attaboy.tumblr.com/post/75614496/i-never-thought-about-sharing-my-colours-for										|
 | Espresso-ish Dark.bbcolors 		|			|				| http://jmock.me/espresso-ish/bbedit/																						|
 | Gentle Honey.bbcolors 			| BBEdit 9	| Bill Keller	| http://ghettocooler.net/2011/07/29/bbedit10-color-schemes/																|
+| GitHub.bbcolors					| BBEdit 9	| Andrew Carter	| https://github.com/ascarter/bbedit-github-theme																			|
 | Gruber Dark.bbcolors 				| BBEdit 9	| John Gruber	| http://daringfireball.net/projects/bbcolors/schemes/																		|
 | Gruber Light.bbcolors 			| BBEdit 9	| John Gruber	| http://daringfireball.net/projects/bbcolors/schemes/																		|
 | ir\_black.bbcolors 				|			|				| https://gist.github.com/959651																							|

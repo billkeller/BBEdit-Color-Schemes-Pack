@@ -1,0 +1,45 @@
+// Author: Andrew Carter <ascarter@gmail.com>
+// http://ascarter.net
+// 23 May 2011
+//
+// Copy to ~/Library/Appliaction Support/BBColors/
+
+"Color:Background"                               =  "rgb(65535,65535,65535)";
+"Color:Background:Grep Replace Pattern"          =  "rgb(62915,62915,62915)";
+"Color:Background:Grep Search Pattern"           =  "rgb(62915,62915,62915)";
+"Color:CTagsIdentifier"                          =  "rgb(0,32896,32896)";
+"Color:ColorAttributesSeparately"                =   1;
+"Color:Comment"                                  =  "rgb(43690,43690,43690)";
+"Color:Comment:Markdown"                         =  "rgb(41169,1856,0)";
+"Color:Foreground"                               =  "rgb(0,0,0)";
+"Color:Foreground:Grep Replace Pattern"          =  "rgb(0,0,0)";
+"Color:Foreground:Grep Search Pattern"           =  "rgb(0,0,0)";
+"Color:GuideContrast"                            =   4;
+"Color:HTMLAnchor"                               =  "rgb(43690,0,0)";
+"Color:HTMLAnchor:Markdown"                      =  "rgb(47000,47000,47000)";
+"Color:HTMLAttributeName"                        =  "rgb(0,32896,32896)";
+"Color:HTMLAttributeName:Markdown"               =  "rgb(24047,38845,62708)";
+"Color:HTMLAttributeValue"                       =  "rgb(56797,4369,17476)";
+"Color:HTMLAttributeValue:Markdown"              =  "rgb(32000,45824,18176)";
+"Color:HTMLImage"                                =  "rgb(0,30583,30583)";
+"Color:HTMLImage:Markdown"                       =  "rgb(47000,47000,47000)";
+"Color:HTMLTag"                                  =  "rgb(0,0,32896)";
+"Color:HighlightInsertionPoint"                  =   1;
+"Color:InsertionPointLineHighlightColor"         =  "rgb(63736,63736,65535)";
+"Color:Invisibles:Other"                         =  "rgb(56797,2056,1542)";
+"Color:Invisibles:Spaces"                        =  "rgb(32639,32639,32639)";
+"Color:Keywords"                                 =  "rgb(0,34438,46003)";
+"Color:Keywords:Grep Replace Pattern"            =  "rgb(0,0,60000)";
+"Color:Keywords:Grep Search Pattern"             =  "rgb(0,0,60000)";
+"Color:Keywords:Markdown"                        =  "rgb(29427,34863,39650)";
+"Color:NumericConstant"                          =  "rgb(0,39321,39321)";
+"Color:PredefinedName"                           =  "rgb(4441,33057,47150)";
+"Color:PrimaryHighlight"                         =  "rgb(59624,59624,61166)";
+"Color:SecondaryHighlight"                       =  "rgb(55512,55512,56797)";
+"Color:String"                                   =  "rgb(56797,4369,17476)";
+"Color:String:Markdown"                          =  "rgb(13107,13107,46260)";
+"Color:UseCustomHighlight"                       =   1;
+"Color:UseCustomHighlight:Grep Replace Pattern"  =   0;
+"Color:UseCustomHighlight:Grep Search Pattern"   =   0;
+"Color:XMLProcessingInstruction"                 =  "rgb(39321,39321,39321)";
+"Color:XMLProcessingInstruction:Markdown"        =  "rgb(52428,35980,15420)";
