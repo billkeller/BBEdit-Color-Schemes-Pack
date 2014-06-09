@@ -23,8 +23,8 @@
 | Ponies.bbcolors					|			|				| [http://bbeditextras.org/wiki/index.php?title=Color_Schemes](http://bbeditextras.org/wiki/index.php?title=Color_Schemes)	|
 | Raygun low contrast dark.bbcolors	|			| Michael Le Du	| https://github.com/mledu																									|
 | Smoky Jazz.bbcolors 				|			|				| https://github.com/ondrae/IDE-Color-Schemes																				|
-| Solarized Dark.bbcolors			|			|				| https://github.com/altercation/solarized/tree/master/textwrangler-bbedit-colors-solarized									|
-| Solarized Light.bbcolors 			|			|				| https://github.com/altercation/solarized/tree/master/textwrangler-bbedit-colors-solarized									|
+| Solarized Dark.bbcolors			| BBEdit 9	| Rui Carmo		| https://github.com/rcarmo/textwrangler-bbedit-solarized																	|
+| Solarized Light.bbcolors 			| BBEdit 9	| Rui Carmo		| https://github.com/rcarmo/textwrangler-bbedit-solarized																	|
 | Twilight.bbcolors 				|			|				| [http://bbeditextras.org/wiki/index.php?title=Color_Schemes](http://bbeditextras.org/wiki/index.php?title=Color_Schemes)	|
 | U23D.bbcolors 					| BBEdit 9	| Bill Keller	| http://ghettocooler.net/2011/07/29/bbedit10-color-schemes/																|
 | underwater.bbcolors				|			| Michael Le Du	| https://github.com/mledu																									|
