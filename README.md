@@ -1,15 +1,15 @@
 | Name								| Format	| License		| Author			| Location of Origin																												|
 |-----------------------------------|-----------|---------------|-------------------|-----------------------------------------------------------------------------------------------------------------------------------|
-| 2AV3								|			|				| Bill Keller		|																																	|
-| 2AV4								|			|				| Bill Keller		|																																	|
-| 2AV5								|			|				| Bill Keller		|																																	|
-| 2AV6								|			|				| Bill Keller		|																																	|
+| 2AV3								| BBEdit 10	|				| Bill Keller		|																																	|
+| 2AV4								| BBEdit 10	|				| Bill Keller		|																																	|
+| 2AV5								| BBEdit 10	|				| Bill Keller		|																																	|
+| 2AV6								| BBEdit 10	|				| Bill Keller		|																																	|
 | base16 (various color schemes)	| BBEdit 10	|				| Chris Kempson		| https://github.com/chriskempson/base16-bbedit																						|
 | Beebe Dark						| BBEdit 10	|				|					| http://cl.ly/8xss																													|
 | Bell Dark							| BBEdit 9	|				| Bryan Bell		| http://daringfireball.net/projects/bbcolors/schemes/																				|
-| Blues								|			|				| Bill Keller		|																																	|
+| Blues								| BBEdit 10	|				| Bill Keller		|																																	|
 | Charcoal v1						| BBEdit 10	|				| Andrew Hazelden	| http://www.andrewhazelden.com/blog/2012/09/charcoal-color-scheme-for-textwrangler-and-bbedit/										|
-| COD10K							|			|				| Bill Keller		|																																	|
+| COD10K							| BBEdit 10	|				| Bill Keller		|																																	|
 | Douce nuit						| BBEdit 9	|				| Luke Andrews		| http://attaboy.tumblr.com/post/75614496/i-never-thought-about-sharing-my-colours-for												|
 | Douce nuit 2 (gamma 2.2)			| BBEdit 9	|				| Luke Andrews		| http://attaboy.tumblr.com/post/75614496/i-never-thought-about-sharing-my-colours-for												|
 | Douce nuit 3						| BBEdit 10	|				| Luke Andrews		| http://attaboy.tumblr.com/post/75614496/i-never-thought-about-sharing-my-colours-for												|
@@ -36,5 +36,5 @@
 | Twilight-ish						| BBEdit 10	|				|					| https://gist.github.com/distilledhype/1139584																						|
 | U23D								| BBEdit 9	|				| Bill Keller		| http://ghettocooler.net/2011/07/29/bbedit10-color-schemes/																		|
 | underwater						|			|				| Michael Le Du		| https://github.com/mledu																											|
-| wolfenstein						|			|				| Bill Keller		|																																	|
+| wolfenstein						| BBEdit 10	|				| Bill Keller		|																																	|
 | Zen and Tea						| BBEdit 9	|				| Bill Keller		| http://ghettocooler.net/2011/07/29/bbedit10-color-schemes/																		|
