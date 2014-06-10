@@ -26,7 +26,7 @@
 | Monokai							|			|				|					| https://github.com/thiagoalessio/Monokai-BBEdit-Color-Scheme																		|
 | Ponies							| BBEdit 10	|				| Kerri A. Hicks	| http://www.allthecandyintheworld.com/Ponies.bbcolors.zip																			|
 | Raygun low contrast dark			|			|				| Michael Le Du		| https://github.com/mledu																											|
-| Reverse\_Color					| BBEdit 10	|				| Robert Huttinger	| [https://github.com/roberthuttinger/BBEdit_Reverse_Color_Scheme](https://github.com/roberthuttinger/BBEdit_Reverse_Color_Scheme)	|
+| Reverse\_Colors					| BBEdit 10	| Public Domain	| Robert Huttinger	| [https://github.com/roberthuttinger/BBEdit_Reverse_Color_Scheme](https://github.com/roberthuttinger/BBEdit_Reverse_Color_Scheme)	|
 | Smoky Jazz						|			|				|					| https://github.com/ondrae/IDE-Color-Schemes																						|
 | Solarized Dark					| BBEdit 9	|				| Rui Carmo			| https://github.com/rcarmo/textwrangler-bbedit-solarized																			|
 | Solarized Light					| BBEdit 9	|				| Rui Carmo			| https://github.com/rcarmo/textwrangler-bbedit-solarized																			|
