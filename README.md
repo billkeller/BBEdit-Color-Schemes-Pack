@@ -15,7 +15,7 @@
 | Douce nuit 3						| BBEdit 10	|				| Luke Andrews		| http://attaboy.tumblr.com/post/75614496/i-never-thought-about-sharing-my-colours-for												|
 | Espresso-ish Dark					| BBEdit 10	|				| Jim Mock			| http://48px.net/#espresso-ish																										|
 | Gentle Honey						| BBEdit 9	|				| Bill Keller		| http://ghettocooler.net/2011/07/29/bbedit10-color-schemes/																		|
-| GitHub							| BBEdit 9	|				| Andrew Carter		| https://github.com/ascarter/bbedit-github-theme																					|
+| GitHub							| BBEdit 9	| MIT License	| Andrew Carter		| https://github.com/ascarter/bbedit-github-theme																					|
 | Gruber Dark						| BBEdit 9	|				| John Gruber		| http://daringfireball.net/projects/bbcolors/schemes/																				|
 | Gruber Light						| BBEdit 9	|				| John Gruber		| http://daringfireball.net/projects/bbcolors/schemes/																				|
 | ir\_black v1						| BBEdit 9	|				| Patrick Gibson	| https://gist.github.com/pgib/959651																								|
