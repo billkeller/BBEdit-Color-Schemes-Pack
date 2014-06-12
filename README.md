@@ -28,8 +28,8 @@
 | Raygun low contrast dark			|			|				| Michael Le Du		| https://github.com/mledu																											|
 | Reverse\_Colors					| BBEdit 10	| Public Domain	| Robert Huttinger	| [https://github.com/roberthuttinger/BBEdit_Reverse_Color_Scheme](https://github.com/roberthuttinger/BBEdit_Reverse_Color_Scheme)	|
 | Smoky Jazz						|			|				|					| https://github.com/ondrae/IDE-Color-Schemes																						|
-| Solarized Dark					| BBEdit 9	|				| Rui Carmo			| https://github.com/rcarmo/textwrangler-bbedit-solarized																			|
-| Solarized Light					| BBEdit 9	|				| Rui Carmo			| https://github.com/rcarmo/textwrangler-bbedit-solarized																			|
+| Solarized Dark					| BBEdit 9	| MIT License	| Rui Carmo			| https://github.com/rcarmo/textwrangler-bbedit-solarized																			|
+| Solarized Light					| BBEdit 9	| MIT License	| Rui Carmo			| https://github.com/rcarmo/textwrangler-bbedit-solarized																			|
 | Tomorrow Night					| BBEdit 10	| MIT License	| Chris Kempson		| https://github.com/chriskempson/tomorrow-theme																					|
 | Tomorrow							| BBEdit 10	| MIT License	| Chris Kempson		| https://github.com/chriskempson/tomorrow-theme																					|
 | Twilight							| BBEdit 10	|				|					| http://cl.ly/2U0314303Z0V2K1W0z08																									|
