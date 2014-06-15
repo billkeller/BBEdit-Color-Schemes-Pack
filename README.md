@@ -1,3 +1,19 @@
+# BBEdit Color Schemes Pack
+
+Pack of BBEdit Color Schemes gathered from elsewhere. Please, fork, add your own 
+and send a pull request.
+
+## About BBColors
+
+Because BBEdit prior to version 10 had no mechanism for import and/or export 
+color schemes, [John Gruber](https://en.wikipedia.org/wiki/John_Gruber) from 
+[Daring Fireball](http://daringfireball.net/projects/bbcolors/) developed a 
+software specifically for this purpose. Since then __BBColors__ became the 
+standard format for color schemes in [BBEdit](http://www.barebones.com/products/bbedit/) 
+and [TextWrangler](http://www.barebones.com/products/textwrangler/) respectively.
+
+## Color Schemes
+
 | Name								| Format	| License		| Author			| Location of Origin																												|
 |-----------------------------------|-----------|---------------|-------------------|-----------------------------------------------------------------------------------------------------------------------------------|
 | 2AV3								| BBEdit 10	|				| Bill Keller		|																																	|
@@ -40,3 +56,11 @@
 | underwater						| BBEdit 10	|				| Michael Le Du		| https://github.com/mledu																											|
 | wolfenstein						| BBEdit 10	|				| Bill Keller		|																																	|
 | Zen and Tea						| BBEdit 9	|				| Bill Keller		| http://ghettocooler.net/2011/07/29/bbedit10-color-schemes/																		|
+
+## Fonts
+
+The BBEdit application includes a copy of [Consolas Regular](https://en.wikipedia.org/wiki/Consolas), 
+an excellent antialiased code editing font (licensed from [Ascender Corporation](http://www.ascendercorp.com/) 
+for use only with BBEdit), which is missing in TextWrangler. To compensate this 
+issue there is the free font [Envy Code R](http://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released) 
+available as an alternative. Just give it a try!
