@@ -1,44 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>BackgroundColor</key>
-	<string>rgba(0.047929,0.047929,0.047929,1.0)</string>
-	<key>Color:ColorAttributesSeparately</key>
-	<string>1</string>
-	<key>Color:GuideContrast</key>
-	<string>2</string>
-	<key>Color:HighlightInsertionPoint</key>
-	<string>1</string>
-	<key>Color:UseCustomHighlight</key>
-	<string>1</string>
-	<key>CommentsColor</key>
-	<string>rgba(0.354009,0.476005,0.776410,1.0)</string>
-	<key>CtagsIdentifierColor</key>
-	<string>rgba(0.600000,0.000000,0.400000,1.0)</string>
-	<key>ForegroundColor</key>
-	<string>rgba(0.808301,0.808301,0.808301,1.0)</string>
-	<key>HTMLAnchorColor</key>
-	<string>rgba(1.000000,0.360037,0.000000,1.0)</string>
-	<key>HTMLAttributeNameColor</key>
-	<string>rgba(0.394156,0.459083,0.559106,1.0)</string>
-	<key>HTMLAttributeValueColor</key>
-	<string>rgba(0.502785,0.645914,0.801923,1.0)</string>
-	<key>HTMLImageColor</key>
-	<string>rgba(0.000000,0.466667,0.466667,1.0)</string>
-	<key>HTMLProcessingDirectiveColor</key>
-	<string>rgba(0.200000,0.400000,0.600000,1.0)</string>
-	<key>HTMLTagColor</key>
-	<string>rgba(1.000000,0.501961,0.000000,1.0)</string>
-	<key>InsertionPointLineHighlightColor</key>
-	<string>rgba(0.143771,0.143771,0.143771,1.0)</string>
-	<key>KeywordsColor</key>
-	<string>rgba(1.000000,0.501961,0.000000,1.0)</string>
-	<key>PrimaryHighlightColor</key>
-	<string>rgba(0.437705,0.178332,0.404349,1.0)</string>
-	<key>SecondaryHighlightColor</key>
-	<string>rgba(0.127459,0.164385,0.138750,1.0)</string>
-	<key>StringColor</key>
-	<string>rgba(0.600000,0.600000,0.600000,1.0)</string>
-</dict>
-</plist>
+// By Bryan Bell
+// http://bryanbell.com/
+// 4 Oct 2006
+//
+// Copy to: ~/Library/Application Support/BBColors/
+
+
+"Color:Background"                        =  "rgb(3141,3141,3141)";
+"Color:CTagsIdentifier"                   =  "rgb(39321,0,26214)";
+"Color:ColorAttributesSeparately"         =   1;
+"Color:Comment"                           =  "rgb(23200,31195,50882)";
+"Color:Foreground"                        =  "rgb(52972,52972,52972)";
+"Color:GuideContrast"                     =   2;
+"Color:HTMLAnchor"                        =  "rgb(65535,23595,0)";
+"Color:HTMLAttributeName"                 =  "rgb(25831,30086,36641)";
+"Color:HTMLAttributeValue"                =  "rgb(32950,42330,52554)";
+"Color:HTMLImage"                         =  "rgb(0,30583,30583)";
+"Color:HTMLTag"                           =  "rgb(65535,32896,0)";
+"Color:HighlightInsertionPoint"           =   1;
+"Color:InsertionPointLineHighlightColor"  =  "rgb(9422,9422,9422)";
+"Color:Keywords"                          =  "rgb(65535,32896,0)";
+"Color:PrimaryHighlight"                  =  "rgb(28685,11687,26499)";
+"Color:SecondaryHighlight"                =  "rgb(8353,10773,9093)";
+"Color:String"                            =  "rgb(39321,39321,39321)";
+"Color:UseCustomHighlight"                =   1;
+"Color:XMLProcessingInstruction"          =  "rgb(13107,26214,39321)";
